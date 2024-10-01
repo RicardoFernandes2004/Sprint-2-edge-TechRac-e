@@ -46,7 +46,7 @@ pelo sensor ultrassônico).
 4. O Node-RED exibe os dados no dashboard em tempo real, e o front-end
 usa as informações para controlar o jogo.
 
-Diagrama da Arquitetura(imagem anexada)
+Diagrama da Arquitetura(image.png dos arquivos)
 
 Recursos Necessários
 Hardware:
