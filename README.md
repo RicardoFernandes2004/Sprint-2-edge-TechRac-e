@@ -116,7 +116,7 @@ client.on('message', (topic, message) => {
  console.log(`Força do sinal recebida: ${message.toString()}`);
  // Ações com base no sinal recebido
  }
-});
+});.
 
 
 Dependências
