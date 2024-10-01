@@ -93,6 +93,8 @@ No diretório do projeto front-end, execute:
 npm install mqtt --save
 
 2. Exemplo de Código para Front-End:
+
+```javascript
 const mqtt = require('mqtt');
 const client = mqtt.connect('mqtt://test.mosquitto.org');
 client.on('connect', () => {
@@ -117,7 +119,7 @@ client.on('message', (topic, message) => {
  // Ações com base no sinal recebido
  }
 });.
-
+```
 
 Dependências
 Para o ESP32:
